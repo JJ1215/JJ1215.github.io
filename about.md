@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me!
 permalink: /about/
 ---
 
-Some information about you!
+I'm a cool person who is cool!
 
 ### More Information
 
