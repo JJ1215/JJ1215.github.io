@@ -85,14 +85,3 @@ exclude:
   - README.md
   - CNAME
   
-  comments:
-  provider: valine 
-
-  ## Valine
-  # please refer to https://valine.js.org/en/ for more info.
-  valine:
-    app_id      : 4BXGpWdHUlLpshfUFiiTRk1x-gzGzoHsz # LeanCloud App id
-    app_key     : CrIQFALzai3f55QU6cy5kf89 # LeanCloud App key
-    placeholder : 歡迎討論和加入你想法 # Prompt information
-    visitor     : # false (default)
-    meta        : # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
