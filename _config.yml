@@ -11,6 +11,7 @@ description: Welcome to JJ's Blog!
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/jj1215/jj1215.github.io/master/images/avatar.jpg
 favicon: https://raw.githubusercontent.com/jj1215/jj1215.github.io/master/images/favicon.ico
+
 #
 # Flags below are optional
 #
@@ -31,7 +32,6 @@ footer-links:
   youtube: channel/UCJ7q7M02juWM_tWx9p09hLQ/featured
   googleplus: # anything in your profile username that comes after plus.google.com/
 
-
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.jj1215.github.io
+url:
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -84,4 +84,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  
