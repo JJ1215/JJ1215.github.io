@@ -1,5 +1,5 @@
 This is JJ'Blog, enjoy yourself!
-
+记录JJ生活中的一些感悟！
 #default
 ---
 layout: post
