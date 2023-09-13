@@ -1,4 +1,4 @@
-This is JJ'Blog, enjoy youself!
+This is JJ'Blog, enjoy yourself!
 
 #default
 ---
